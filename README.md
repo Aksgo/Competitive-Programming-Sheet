@@ -9,4 +9,6 @@
   <li><a href="https://codeforces.com/problemset/problem/1968/C">Assembly via Remainders</li>
   <li><a href="https://codeforces.com/problemset/problem/1955/B">Progressive Square</li>
   <li><a href="https://codeforces.com/contest/770/problem/B">Maximize Sum of Digits</li>
+  <li><a href="https://codeforces.com/contest/1976/problem/B">Increase/Decrease/Copy</li>
+    
 <ul>
