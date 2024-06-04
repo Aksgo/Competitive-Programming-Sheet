@@ -10,5 +10,6 @@
   <li><a href="https://codeforces.com/problemset/problem/1955/B">Progressive Square</li>
   <li><a href="https://codeforces.com/contest/770/problem/B">Maximize Sum of Digits</li>
   <li><a href="https://codeforces.com/contest/1976/problem/B">Increase/Decrease/Copy</li>
-    
+  <li><a href="https://codeforces.com/problemset/problem/1958/A">1-3-5</li>
+  <li><a href="https://codeforces.com/problemset/problem/1957/B"> A BIT of a Construction</li>
 </ol>
