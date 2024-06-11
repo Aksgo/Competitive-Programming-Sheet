@@ -15,4 +15,5 @@
   <li><a href="https://codeforces.com/contest/1981/problem/A">Turtle and Piggy Are Playing a Game</li> 
   <li><a href="https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/rhezo-and-big-powers-1/">Rhezo and Big Powers</li>
   <li><a href="https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/innocent-swaps-and-his-emotions-1/">Innocent Swaps and His Emotions</li> 
+    <li><a href="https://codeforces.com/problemset/problem/1981/B">Turtle and an Infinite Sequence</li> 
 </ol>
