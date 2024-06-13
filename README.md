@@ -1,7 +1,7 @@
 <h3>Here are some problem for newbie in CP</h3>
 <i>NOTE : To check the solution search the file in repo</i>
 
-<ol>
+<ol> 
   <li><a href="https://codeforces.com/problemset/problem/1853/B">Fibonaccharsis</li>
   <li><a href="https://codeforces.com/problemset/problem/1972/B">Coin Games</li>
   <li><a href="https://codeforces.com/problemset/problem/1969/B">Shifts and Sorting</li>
