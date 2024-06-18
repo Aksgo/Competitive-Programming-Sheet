@@ -17,4 +17,5 @@
   <li><a href="https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/practice-problems/algorithm/innocent-swaps-and-his-emotions-1/">Innocent Swaps and His Emotions</li> 
     <li><a href="https://codeforces.com/problemset/problem/1981/B">Turtle and an Infinite Sequence</li> 
     <li><a href="https://codeforces.com/problemset/problem/1904/B">Collecting Game</li>
+    <li><a href="https://codeforces.com/problemset/problem/1902/B">Getting Points</li>
 </ol>
