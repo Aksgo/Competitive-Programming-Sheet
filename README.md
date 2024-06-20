@@ -18,4 +18,6 @@
     <li><a href="https://codeforces.com/problemset/problem/1981/B">Turtle and an Infinite Sequence</li> 
     <li><a href="https://codeforces.com/problemset/problem/1904/B">Collecting Game</li>
     <li><a href="https://codeforces.com/problemset/problem/1902/B">Getting Points</li>
+   <li><a href="https://codeforces.com/problemset/problem/1884/B">Haunted House</li>
+    
 </ol>
