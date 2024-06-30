@@ -22,4 +22,5 @@
     <li><a href="https://codeforces.com/problemset/problem/1873/E">Building an Aquarium</li>
     <li><a href="https://www.hackerearth.com/problem/algorithm/monk-and-divisor-conundrum-56e0eb99/">Monk and Divisor Conundrum</li>
     <li><a href="https://codeforces.com/problemset/problem/230/B">T-primes</li>
+    <li><a href="https://codeforces.com/contest/776/problem/B">Sherlock and his girlfriend</li>
 </ol>
