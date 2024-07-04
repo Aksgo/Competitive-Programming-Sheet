@@ -24,4 +24,5 @@
     <li><a href="https://codeforces.com/problemset/problem/230/B">T-primes</li>
     <li><a href="https://codeforces.com/contest/776/problem/B">Sherlock and his girlfriend</li>
     <li><a href="https://codeforces.com/problemset/problem/1951/B">Battle Cows </li>
+    <li><a href="https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4/">Monk and his Father</li>
 </ol>
