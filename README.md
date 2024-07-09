@@ -27,4 +27,5 @@
     <li><a href="https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4/">Monk and his Father</li>
     <li><a href="https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-challenge-2420f189/">A XOR challenge</li>
     <li><a href="https://codeforces.com/contest/1979/problem/A">Guess the Maximum</li>
+    <li><a href="https://codeforces.com/contest/1979/problem/B">XOR Sequences</li>
 </ol>
