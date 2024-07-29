@@ -28,5 +28,6 @@
     <li><a href="https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-challenge-2420f189/">A XOR challenge</li>
     <li><a href="https://codeforces.com/contest/1979/problem/A">Guess the Maximum</li>
     <li><a href="https://codeforces.com/contest/1979/problem/B">XOR Sequences</li>
-    <li><a href="https://codeforces.com/contest/1979/problem/B">Earning on Bets</li>
+    <li><a href="https://codeforces.com/contest/1979/problem/C">Earning on Bets</li>
+    <li><a href="https://codeforces.com/contest/1951/problem/A">Dual Trigger</li>
 </ol>
