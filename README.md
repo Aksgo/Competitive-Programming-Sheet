@@ -31,4 +31,5 @@
     <li><a href="https://codeforces.com/contest/1979/problem/C">Earning on Bets</li>
     <li><a href="https://codeforces.com/contest/1951/problem/A">Dual Trigger</li>
     <li><a href="https://codeforces.com/contest/1398/problem/C">Good Subarrays</li>
+    <li><a href="https://atcoder.jp/contests/abc125/tasks/abc125_c">GCD on Blackboard</li>
 </ol>
