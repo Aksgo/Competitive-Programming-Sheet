@@ -33,4 +33,5 @@
     <li><a href="https://codeforces.com/contest/1398/problem/C">Good Subarrays</li>
     <li><a href="https://atcoder.jp/contests/abc125/tasks/abc125_c">GCD on Blackboard</li>
     <li><a href="https://codeforces.com/contest/1826/problem/D">Running Miles</li>
+    <li><a href="https://codeforces.com/contest/1291/problem/D">Irreducible Anagrams</li>
 </ol>
