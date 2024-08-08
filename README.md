@@ -1,5 +1,5 @@
 <h3>Here are some problem for Competitve Programming</h3>
-<i>NOTE : To check the solution search the file in repo</i> 
+<i>NOTE : To check the solution search the file in repo in Solution</i> 
 
 <ol> 
   <li><a href="https://codeforces.com/problemset/problem/1853/B">Fibonaccharsis</li>
