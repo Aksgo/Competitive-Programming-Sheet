@@ -36,4 +36,5 @@
     <li><a href="https://codeforces.com/contest/1291/problem/D">Irreducible Anagrams</li>
     <li><a href="https://codeforces.com/problemset/problem/1791/F">Range Update Point Query</li>
     <li><a href="https://codeforces.com/contest/279/problem/B">Books</li>
+    <li><a href="https://codeforces.com/contest/1984/problem/C1">Magnitude (Easy Version)</li>
 </ol>
