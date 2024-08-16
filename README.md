@@ -38,4 +38,5 @@
     <li><a href="https://codeforces.com/contest/279/problem/B">Books</li>
     <li><a href="https://codeforces.com/contest/1984/problem/C1">Magnitude (Easy Version)</li>
     <li><a href="https://codeforces.com/contest/1984/problem/B">Large Addition</li>
+    <li><a href="https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/">Connected Components in a Graph</li>
 </ol>
