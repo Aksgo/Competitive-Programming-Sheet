@@ -43,4 +43,5 @@
     <li><a href="https://codeforces.com/contest/1979/problem/D">Fixing a Binary String</li>
     <li><a href="https://leetcode.com/problems/flood-fill/description/">Flood Fills</li>
     <li><a href="https://codeforces.com/contest/1985/problem/D">Manhattan Circle</li>
+    <li><a href="https://codeforces.com/contest/1985/problem/C">Good Prefixes</li>
 </ol>
