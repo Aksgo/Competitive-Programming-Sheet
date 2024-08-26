@@ -46,4 +46,5 @@
     <li><a href="https://codeforces.com/contest/1985/problem/C">Good Prefixes</li>
     <li><a href="https://codeforces.com/contest/1984/problem/D">"a" String Problem</li>
     <li><a href="https://codeforces.com/contest/271/problem/D">Good Substrings</li>
+   <li><a href="https://codeforces.com/contest/702/problem/C">Cellular Network</li>
 </ol>
