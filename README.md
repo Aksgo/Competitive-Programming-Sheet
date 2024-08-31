@@ -1,4 +1,5 @@
 <h3>Here are some problem for Competitve Programming</h3>
+<b>The aim of this repository is to provide some questions a beginner to CP would be able to solve after some practice</b>
 <i>NOTE : To check the solution search the file in repo in Solution</i> 
 
 <ol> 
