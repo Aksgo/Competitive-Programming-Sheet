@@ -52,4 +52,5 @@
    <li><a href="https://codeforces.com/problemset/problem/701/C">They Are Everywhere</li>
    <li><a href="https://atcoder.jp/contests/abc358/tasks/abc358_d">Souvenirs</li>
    <li><a href="https://atcoder.jp/contests/abc358/tasks/abc358_c">Popcorn</li>
+   <li><a href="https://atcoder.jp/contests/abc358/tasks/abc358_b">Ticket Counter</li>
 </ol>
