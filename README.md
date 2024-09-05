@@ -54,4 +54,5 @@
    <li><a href="https://atcoder.jp/contests/abc358/tasks/abc358_c">Popcorn</li>
    <li><a href="https://atcoder.jp/contests/abc358/tasks/abc358_b">Ticket Counter</li>
    <li><a href="https://codeforces.com/contest/1978/problem/B">New Bakery</li>
+   <li><a href="https://codeforces.com/contest/1978/problem/A">Alice and Books</li>
 </ol>
