@@ -56,4 +56,5 @@
    <li><a href="https://codeforces.com/contest/1978/problem/B">New Bakery</li>
    <li><a href="https://codeforces.com/contest/1978/problem/A">Alice and Books</li>
    <li><a href="https://codeforces.com/contest/1777/problem/C">Quiz Master</li>
+   <li><a href="https://atcoder.jp/contests/abc354/tasks/abc354_a">Exponential Plant</li>
 </ol>
