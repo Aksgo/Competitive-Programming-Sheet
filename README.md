@@ -60,4 +60,5 @@
    <li><a href="https://codeforces.com/problemset/problem/814/C">An impassioned circulation of affection</li>
    <li><a href="https://codeforces.com/contest/1978/problem/D">Elections</li>
    <li><a href="https://codeforces.com/gym/104002/problem/E">William and Robot</li>
+   <li><a href="https://codeforces.com/problemset/problem/1474/C">Array Destruction</li>
 </ol>
