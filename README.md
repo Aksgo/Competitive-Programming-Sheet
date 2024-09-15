@@ -61,4 +61,5 @@
    <li><a href="https://codeforces.com/contest/1978/problem/D">Elections</li>
    <li><a href="https://codeforces.com/gym/104002/problem/E">William and Robot</li>
    <li><a href="https://codeforces.com/problemset/problem/1474/C">Array Destruction</li>
+   <li><a href="https://atcoder.jp/contests/abc354/tasks/abc354_c">AtCoder Magics</li>
 </ol>
