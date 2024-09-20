@@ -66,4 +66,5 @@
    <li><a href="https://atcoder.jp/contests/abc359/tasks/abc359_c">Tile Distance 2</li>
    <li><a href="https://codeforces.com/contest/1986/problem/B">Matrix Stabilization</li>
    <li><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</li>
+   <li><a href="https://codeforces.com/contest/1986/problem/D">Mathematical Problem</li>
 </ol>
