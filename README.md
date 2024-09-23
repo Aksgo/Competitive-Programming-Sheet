@@ -67,5 +67,5 @@
    <li><a href="https://codeforces.com/contest/1986/problem/B">Matrix Stabilization</li>
    <li><a href="https://codeforces.com/contest/1986/problem/C">Update Queries</li>
    <li><a href="https://codeforces.com/contest/1986/problem/E">Beautiful Array</li>
-   <li><a href="https://codeforces.com/contest/1982/problem/B">https://codeforces.com/contest/1982/problem/B</li>
+   <li><a href="https://codeforces.com/contest/1982/problem/B">Collatz Conjecture</li>
 </ol>
