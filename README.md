@@ -69,4 +69,5 @@
    <li><a href="https://codeforces.com/contest/1986/problem/E">Beautiful Array</li>
    <li><a href="https://codeforces.com/contest/1982/problem/B">Collatz Conjecture</li>
    <li><a href="https://codeforces.com/contest/1982/problem/C">Boring Day</li>
+   <li><a href="https://codeforces.com/contest/1982/problem/D">Beauty of the mountains</li>
 </ol>
