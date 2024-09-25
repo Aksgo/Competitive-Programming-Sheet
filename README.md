@@ -70,4 +70,5 @@
    <li><a href="https://codeforces.com/contest/1982/problem/B">Collatz Conjecture</li>
    <li><a href="https://codeforces.com/contest/1982/problem/C">Boring Day</li>
    <li><a href="https://codeforces.com/contest/1982/problem/D">Beauty of the mountains</li>
+     <li><a href="https://codeforces.com/contest/1989/problem/A">Catch the Coin</li>
 </ol>
