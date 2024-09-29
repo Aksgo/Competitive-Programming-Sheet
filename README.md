@@ -73,4 +73,5 @@
    <li><a href="https://codeforces.com/contest/1989/problem/A">Catch the Coin</li>
    <li><a href="https://codeforces.com/problemset/problem/295/B">Greg and Graph</li>
    <li><a href="https://atcoder.jp/contests/abc360/tasks/abc360_d">Ghost Ants</li>
+   <li><a href="https://codeforces.com/contest/1989/problem/B">Substring and Subsequence</li>
 </ol>
