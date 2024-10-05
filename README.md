@@ -77,4 +77,5 @@
    <li><a href="https://codeforces.com/contest/1989/problem/C">Two Movies</li>
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_a">Frog 1</li>  
    <li><a href="https://codeforces.com/contest/762/problem/B">USB vs. PS/2</li>  
+   <li><a href="https://cses.fi/problemset/task/1073/">Towers</li>  
 </ol>
