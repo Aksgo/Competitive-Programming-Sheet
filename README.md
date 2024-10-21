@@ -81,4 +81,5 @@
    <li><a href="https://cses.fi/problemset/task/1632/">Movie Festival II</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_d">D-Knapsack 1</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_e">E - Knapsack 2</li>  
+   <li><a href="https://atcoder.jp/contests/dp/tasks/dp_c">C - Vacation</li>  
 </ol>
