@@ -82,5 +82,5 @@
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_d">D-Knapsack 1</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_e">E - Knapsack 2</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_c">C - Vacation</li>  
-   <li><a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS</li>  
+   <li><a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS </li>  
 </ol>
