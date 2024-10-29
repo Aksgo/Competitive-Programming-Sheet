@@ -83,4 +83,5 @@
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_e">E - Knapsack 2</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_c">C - Vacation</li>  
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS </li>  
+   <li><a href="https://codeforces.com/contest/1992/problem/A">Only Pluses</li>  
 </ol>
