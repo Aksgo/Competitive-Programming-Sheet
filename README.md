@@ -85,4 +85,5 @@
    <li><a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS </li>  
    <li><a href="https://codeforces.com/contest/1992/problem/A">Only Pluses</li>  
    <li><a href="https://codeforces.com/contest/1992/problem/B">Angry Monk</li> 
+   <li><a href="https://codeforces.com/contest/1992/problem/C">Gorilla and Permutation</li> 
 </ol>
