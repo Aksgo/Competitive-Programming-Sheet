@@ -88,5 +88,5 @@
    <li><a href="https://codeforces.com/contest/1992/problem/C">Gorilla and Permutation</li> 
    <li><a href="https://codeforces.com/contest/1992/problem/D">Test of Love</li> 
    <li><a href="https://codeforces.com/problemset/problem/1158/A">The Party and Sweets</li> 
-     
+   <li><a href="https://codeforces.com/contest/1995/problem/A">Diagonals</li> 
 </ol>
