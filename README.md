@@ -91,4 +91,5 @@
    <li><a href="https://codeforces.com/contest/1995/problem/A">Diagonals</li> 
    <li><a href="https://codeforces.com/contest/1995/problem/B1">Bouquet(Easy Version)</li> 
    <li><a href="https://codeforces.com/contest/1995/problem/B2">Bouquet(Hard Version)</li> 
+   <li><a href="https://codeforces.com/contest/1996/problem/B">Scale</li> 
 </ol>
