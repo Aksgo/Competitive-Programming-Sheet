@@ -95,4 +95,5 @@
    <li><a href="https://codeforces.com/contest/1996/problem/B">Scale</li> 
    <li><a href="https://codeforces.com/contest/1996/problem/C">Sort</li> 
    <li><a href="https://codeforces.com/contest/1996/problem/D">Fun</li> 
+   <li><a href="https://leetcode.com/problems/ipo/description/">IPO</li> 
 </ol>
