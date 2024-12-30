@@ -97,4 +97,5 @@
    <li><a href="https://codeforces.com/contest/1996/problem/D">Fun</li> 
    <li><a href="https://leetcode.com/problems/ipo/description/">IPO</li> 
    <li><a href="https://codeforces.com/contest/321/problem/B">Ciel and Duel</li> 
+   <li><a href="https://codeforces.com/contest/1783/problem/C">Yet Another Tournament</li> 
 </ol>
