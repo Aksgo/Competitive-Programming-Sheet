@@ -98,5 +98,6 @@
    <li><a href="https://leetcode.com/problems/ipo/description/">IPO</li> 
    <li><a href="https://codeforces.com/contest/321/problem/B">Ciel and Duel</li> 
    <li><a href="https://codeforces.com/contest/1783/problem/C">Yet Another Tournament</li> 
-   <li><a href="https://codeforces.com/contest/1997/problem/A">Strong Password</li> 
+   <li><a href="https://codeforces.com/contest/1997/problem/A">Strong Password</li>
+   <li><a href="https://codeforces.com/group/fkQQ5I8JeS/contest/538618/problem/A">Color of Balloon</li> 
 </ol>
