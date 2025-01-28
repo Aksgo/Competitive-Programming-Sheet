@@ -100,5 +100,7 @@
    <li><a href="https://codeforces.com/contest/1783/problem/C">Yet Another Tournament</li> 
    <li><a href="https://codeforces.com/contest/1997/problem/A">Strong Password</li>
    <li><a href="https://codeforces.com/group/fkQQ5I8JeS/contest/538618/problem/A">Color of Balloon</li> 
-   <li><a href="https://codeforces.com/contest/1993/problem/B">Parity and Sum</li>  
+   <li><a href="https://codeforces.com/contest/1993/problem/B">Parity and Sum </li>  
+  <li><a href="https://codeforces.com/problemset/problem/1097/B">Petr and a Combination Lock</li>  
+     
 </ol>
