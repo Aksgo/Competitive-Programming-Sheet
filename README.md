@@ -1,6 +1,5 @@
 <h3>Here are some problem for Competitive Programming</h3>
 <b>The aim of this repository is to provide some good CP questions</b>
-<i>Also do not forget to view the Advent of Code Repository (In progress)</i>
 <br><br>
 <i>NOTE : To check the solution search the file in repo in Solution</i> 
 
