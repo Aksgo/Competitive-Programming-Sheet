@@ -1,7 +1,7 @@
 <h3>Here are some problem for Competitive Programming</h3>
 <b>The aim of this repository is to provide some good CP questions for practice</b>
 <br><br>
-<i>NOTE : To check the solution search the file in repo in Solution</i> 
+<i>NOTE : To check the solution search the file in repo in Solution :</i> 
 
 <ol> 
   <li><a href="https://codeforces.com/problemset/problem/1853/B">Fibonaccharsis </li>
