@@ -102,5 +102,7 @@
    <li><a href="https://codeforces.com/contest/1993/problem/B">Parity and Sum </li>  
   <li><a href="https://codeforces.com/problemset/problem/1097/B">Peter and a Combination Lock</li>  
   <li><a href="https://codeforces.com/problemset/problem/550/B">Preparing Olympiad</li>  
-  <li><a href="https://codeforces.com/contest/1999/problem/E">Triple Operations</li> 
+  <li><a href="https://codeforces.com/contest/1999/problem/E">Triple Operations</li>
+      <li><a href="https://codeforces.com/contest/1999/problem/E">Triple Operations</li> 
+
 </ol>
